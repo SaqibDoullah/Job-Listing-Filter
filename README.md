@@ -1,0 +1,9 @@
+This is by far the best challenge I have completed on FEM...but it was also the HARDEST! I was able to do the HTML and CSS comfortably but I did get stuck for a long time on the JS - especially the filtering part. So I re-watched John Smilga's - Menu video: https://www.youtube.com/watch?v=3PHXvlpOkf4&t=8185s Thanks John - I have learned so much from you. I love the reduce method to get the unique categories.
+
+However, I still couldn't complete this challenge completely so I watched this video from WebDevYT: https://www.youtube.com/watch?v=hGM8lMUqZLY&t=318s It just had music in the background so no explanations but after watching it twice and then studying the code in minute detail (for a loooong time!), I was finally able to understand the code and tweak mine to make it work. Thank you WebDevYT - your animation is class!
+
+I chose to do a .forEach instead of the - for (let .. of) loops WebDevYT did just because I am more familiar with them but it was nice to see a different way of doing the same thing. For the filter part, I had to get an array of the items in the card and another array of the items in the filter. Then by using a boolean combined with a .forEach and an if statement, I checked if the filtered btns were not included in the card array. And if they were not included I removed that card. If they were included I brought that card back in.
+
+If I am being honest, I am still a bit shaky on some of it - as in - if you put a gun to my head and forced me to do it without allowing me to review my notes from time to time, I am not sure I could complete it totally. But I will go over it many times now - starting with a blank JS page each time until it starts to come naturally.
+
+Overall, this challenge was probably a bit too advanced for my current knowledge but I LOVED it and it encourages me to learn MORE because someday I want to be able to do all of this with my eyes - almost - closed!
